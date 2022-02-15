@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #212529;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+h5{
+	color: #171717;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3,h3,p{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#hero{
+	background: url("../img/hero-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	padding: 10%;
+	
+}
+
+.info-service h2{
+	font-family: 'Montserrat', sans-serif;
+	
+	
+}
+
+.info-service{
+	align-content: center;
+	text-align: center;
+	padding: 15%;
+}
+
+
+#mambu{
+	background: url("../img/mambu-case-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	padding: 10%;
+	
+}
+
+
+#mambu .container{
+	background-color: #fff;
+	padding: 50px 50px;
+	border-radius: 3px;
+}
+
+.mambu-service{
+	color: #0F0000;
+	align-content:stretch;
+	
+}
+
+
+.mambu-service p{
+	align-content: space-between;
+	text-align: justify;
+}
+
+#work{
+	padding: 10%;
+	text-align: center;
+}
+
+footer{
+	background-color: #171717;
+	padding: 5%;
+}
+
+
+.social-nav i{
+	width: 28px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	background-color: var(--color-verde);
+	color: #fff;
+	border-radius: 100%;
+}
+.social-nav .nav-link{
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+
+
+
+
+
+
+
+
